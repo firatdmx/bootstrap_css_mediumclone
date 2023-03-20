@@ -2,6 +2,7 @@
 
 Medium Clone Website
 
+Responsive yapıdaki hatalar giderilecek...
 
 ![ss](/img/ss.png)
 
